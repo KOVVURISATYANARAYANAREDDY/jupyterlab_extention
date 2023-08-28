@@ -1,0 +1,9 @@
+README.md
+setup.py
+codecompletion.egg-info/PKG-INFO
+codecompletion.egg-info/SOURCES.txt
+codecompletion.egg-info/dependency_links.txt
+codecompletion.egg-info/entry_points.txt
+codecompletion.egg-info/not-zip-safe
+codecompletion.egg-info/requires.txt
+codecompletion.egg-info/top_level.txt
